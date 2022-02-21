@@ -8,6 +8,9 @@
 <a href="https://github.com/ihmpavel/all-iso-language-codes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihmpavel&repo=all-iso-language-codes" />
 </a>
+<a href="https://github.com/ihmpavel/free-email-domains-list">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihmpavel&repo=free-email-domains-list" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
