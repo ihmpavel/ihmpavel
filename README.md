@@ -2,14 +2,16 @@
 <h3 align="center">Student, developer & entrepreneur from Czechia 🇨🇿</h3>
 
 <h3 align="left">My repositories:</h3>
-<a href="https://github.com/ihmpavel/expo-video-player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihmpavel&repo=expo-video-player" />
+<a href="https://github.com/ihmpavel/free-email-domains-list">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihmpavel&repo=free-email-domains-list" />
 </a>
 <a href="https://github.com/ihmpavel/all-iso-language-codes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihmpavel&repo=all-iso-language-codes" />
 </a>
-<a href="https://github.com/ihmpavel/free-email-domains-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihmpavel&repo=free-email-domains-list" />
+<br />
+<br />
+<a href="https://github.com/ihmpavel/expo-video-player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ihmpavel&repo=expo-video-player" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
